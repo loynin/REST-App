@@ -83,6 +83,6 @@
     "simple-ssh": "^0.8.9",
     "skeleton-css": "^2.0.4",
     "underscore": "^1.9.1",
-    "validator": "^5.1.0"
+    "validator": "^13.7.0"
   }
 }
