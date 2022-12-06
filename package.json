@@ -52,7 +52,7 @@
     "debug": "^2.2.0",
     "dtrace-provider": "^0.8.7",
     "ejs": "^2.6.1",
-    "express": "~4.13.4",
+    "express": "~4.17.3",
     "express-session": "^1.16.1",
     "fb": "github:alarner/facebook-node-sdk",
     "filepicker-js": "^2.4.10",
